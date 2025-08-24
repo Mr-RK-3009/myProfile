@@ -11,6 +11,10 @@
   </p>
 </h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raushankr-30/raushankr-30/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ---
 
